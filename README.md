@@ -1,4 +1,5 @@
 Task 1
+
 Create a class to describe a student in our group.
 Class fields: first name, last name, passport number, group name (you can add your own fields if desired, such as age).
 Create objects of this class for each student in our group.
@@ -6,6 +7,7 @@ Place all these objects into an array.
 Iterate through the array using a for loop and print the information to the console.
 
 Task 2
+
 Create a class CreditCard with the fields account number and current balance.
 Create a constructor with two parameters.
 Create a class TransferService - a transfer service.
